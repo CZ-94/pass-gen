@@ -25,4 +25,4 @@ password="".join(secrets.choice(password) for i in range (PasswordLength))
 
 #display the password generated
 
-print(f"The generated password is {password}")
+print(f"The generated paroj password is: {password}")
